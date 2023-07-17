@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Designing
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on Creative Designs
-- 📫 How to reach me oluwatobiakomolafe21@gmail.com...
+- 📫 How to reach me oluwatobiakomolafe21@gmail.com
 
 <!---
 Demizzy/Demizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
